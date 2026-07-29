@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+title: "dsan-network"
+message: "If you use this Research POC, please cite it as below."
+authors:
+  - family-names: "Singh"
+    given-names: "Abhishek"
+    orcid: "https://orcid.org/0009-0004-6913-096X"
+version: 1.0.0
+date-released: 2026-06-12
