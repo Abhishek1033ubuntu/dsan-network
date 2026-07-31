@@ -1,6 +1,6 @@
 # Decentralized Sovereign Agricultural Network (DSAN)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21684729.svg)](https://doi.org/10.5281/zenodo.21684729) ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
-
+---
 An open-source, 3-tier macroeconomic framework designed to eliminate predatory food-market speculation, stabilize local currencies against hyperinflation, and protect primary agricultural producers using telemetric validation and offline mesh networks.
 
 ## 🌍 The Problem DSAN Solves
